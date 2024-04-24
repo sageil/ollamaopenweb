@@ -3,7 +3,7 @@
 > :warning: **Performance**: <br>
  GPU Support is required for optimal performance, without it Ollama will be slow. 
 
-Run Ollama locally using [Open Web UI](https://github.com/OpenWebUI/open-webui).
+Run Ollama locally using [Open Web UI](https://openwebui.com).
 
 ### Using Docker & Linux with GPU support
 
@@ -19,7 +19,7 @@ docker compose -f docker-compose.yml up -d
 
 ### Using Ollama installer (best for Mac silicon chip users)
 
-1. Download the Ollama installer from [here](https://github.com/olivernn/ollama/releases)
+1. Download the Ollama installer from [here](https://ollama.com/download)
 2. Run the installer
 
 3. Once Ollama is running, install the WebUI using
